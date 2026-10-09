@@ -21,7 +21,7 @@ else
 {
     console.log("login failed");
 }
-//if else-if statement
+//if else-if statement or else-if ladder
 /*if(){
 
 }
